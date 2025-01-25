@@ -12,6 +12,8 @@ To run this project:
 
 1. Clone or download the repository.
 2. Open the `index.html` file in your preferred browser.
+3. Adapt the challenges for yourself
+4. My challenges are available online [become-disciplined](https://heitormbonfim.github.io/become-disciplined/)
 
 That's it! No additional setup is required.
 
